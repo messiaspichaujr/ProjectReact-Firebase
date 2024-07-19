@@ -1,6 +1,6 @@
 # MessiBLOG
 
-Projeto criado com o intuito de explorar e conhecer profundamente as funcionalidades e potencialidades do React, incluindo propriedades complexas. O backend utiliza Firebase, e o projeto inclui validações, criação de usuário, criação de posts, exclusão de posts, Hooks e propriedades do Firebase. Após o login, as páginas de login e cadastro desaparecem e outras páginas são exibidas conforme o estado de autenticação do usuário.
+Projeto criado com o intuito de explorar e conhecer profundamente as funcionalidades e potencialidades do React, Propriedades complexas e entender melhor a estrutura de pastas de um projeto. O backend utiliza Firebase, e o projeto inclui validações, criação de usuário, criação de posts, exclusão de posts, Hooks e propriedades do Firebase. Após o login, as páginas de login e cadastro desaparecem e outras páginas são exibidas conforme o estado de autenticação do usuário.
 
 -----
 
