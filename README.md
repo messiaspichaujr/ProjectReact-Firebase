@@ -15,4 +15,4 @@ Projeto criado com o intuito de explorar e conhecer profundamente as funcionalid
 ![Criar Post](https://github.com/user-attachments/assets/1839cb90-97c6-491b-a70b-13c04aca02e9)
 
 //Página Home com o resultado da criação do post
-![teste](https://github.com/user-attachments/assets/eb505bfa-7430-445d-ac54-6a17d0025bbd)
+![result](https://github.com/user-attachments/assets/834bcf92-7076-4091-9310-d1ebe5d0a255)
